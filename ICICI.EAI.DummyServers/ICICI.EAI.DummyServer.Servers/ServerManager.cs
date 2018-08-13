@@ -31,7 +31,6 @@ namespace ICICI.EAI.DummyServer.Servers
         void SuccessResponse(int port)
         {
             _servers[port].SleepResponse = null;
-
         }
     }
 }

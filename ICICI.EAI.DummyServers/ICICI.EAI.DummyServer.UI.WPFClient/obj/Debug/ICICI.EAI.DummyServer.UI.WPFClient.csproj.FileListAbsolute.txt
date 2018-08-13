@@ -1,0 +1,39 @@
+c:\users\zikh\documents\visual studio 2013\Projects\ICICI.EAI.DummyServer.UI.WPFClient\ICICI.EAI.DummyServer.UI.WPFClient\bin\Debug\ICICI.EAI.DummyServer.UI.WPFClient.exe.config
+c:\users\zikh\documents\visual studio 2013\Projects\ICICI.EAI.DummyServer.UI.WPFClient\ICICI.EAI.DummyServer.UI.WPFClient\bin\Debug\ICICI.EAI.DummyServer.UI.WPFClient.exe
+c:\users\zikh\documents\visual studio 2013\Projects\ICICI.EAI.DummyServer.UI.WPFClient\ICICI.EAI.DummyServer.UI.WPFClient\bin\Debug\ICICI.EAI.DummyServer.UI.WPFClient.pdb
+c:\users\zikh\documents\visual studio 2013\Projects\ICICI.EAI.DummyServer.UI.WPFClient\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\MainWindow.baml
+c:\users\zikh\documents\visual studio 2013\Projects\ICICI.EAI.DummyServer.UI.WPFClient\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\MainWindow.g.cs
+c:\users\zikh\documents\visual studio 2013\Projects\ICICI.EAI.DummyServer.UI.WPFClient\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\App.g.cs
+c:\users\zikh\documents\visual studio 2013\Projects\ICICI.EAI.DummyServer.UI.WPFClient\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient_MarkupCompile.cache
+c:\users\zikh\documents\visual studio 2013\Projects\ICICI.EAI.DummyServer.UI.WPFClient\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient.g.resources
+c:\users\zikh\documents\visual studio 2013\Projects\ICICI.EAI.DummyServer.UI.WPFClient\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient.Properties.Resources.resources
+c:\users\zikh\documents\visual studio 2013\Projects\ICICI.EAI.DummyServer.UI.WPFClient\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient.csproj.GenerateResource.Cache
+c:\users\zikh\documents\visual studio 2013\Projects\ICICI.EAI.DummyServer.UI.WPFClient\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient.exe
+c:\users\zikh\documents\visual studio 2013\Projects\ICICI.EAI.DummyServer.UI.WPFClient\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient.pdb
+C:\Users\zikh\documents\visual studio 2013\Projects\ICICI.EAI.DummyServer.UI.WPFClient\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient.csprojResolveAssemblyReference.cache
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\bin\Debug\ICICI.EAI.DummyServer.UI.WPFClient.exe.config
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\bin\Debug\ICICI.EAI.DummyServer.UI.WPFClient.exe
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\bin\Debug\ICICI.EAI.DummyServer.UI.WPFClient.pdb
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient.csprojAssemblyReference.cache
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\MainWindow.baml
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\MainWindow.g.cs
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\App.g.cs
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient_MarkupCompile.cache
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient.g.resources
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient.Properties.Resources.resources
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient.csproj.GenerateResource.cache
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient.csproj.CoreCompileInputs.cache
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient.exe
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient.pdb
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICIEAIDummyServer\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\bin\Debug\ICICI.EAI.DummyServer.UI.WPFClient.exe.config
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICIEAIDummyServer\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient.exe
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICIEAIDummyServer\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient.pdb
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICIEAIDummyServer\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\MainWindow.baml
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICIEAIDummyServer\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\MainWindow.g.cs
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICIEAIDummyServer\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\App.g.cs
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICIEAIDummyServer\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient_MarkupCompile.cache
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICIEAIDummyServer\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient.g.resources
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICIEAIDummyServer\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient.Properties.Resources.resources
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICIEAIDummyServer\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\obj\Debug\ICICI.EAI.DummyServer.UI.WPFClient.csproj.GenerateResource.Cache
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICIEAIDummyServer\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\bin\Debug\ICICI.EAI.DummyServer.UI.WPFClient.exe
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICIEAIDummyServer\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.UI.WPFClient\bin\Debug\ICICI.EAI.DummyServer.UI.WPFClient.pdb

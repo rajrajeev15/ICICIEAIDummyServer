@@ -10,3 +10,9 @@ D:\EAI_rajeev\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.Utilities\bin\Debug\I
 D:\EAI_rajeev\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.Utilities\obj\Debug\ICICI.EAI.DummyServer.Utilities.csprojResolveAssemblyReference.cache
 D:\EAI_rajeev\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.Utilities\obj\Debug\ICICI.EAI.DummyServer.Utilities.dll
 D:\EAI_rajeev\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.Utilities\obj\Debug\ICICI.EAI.DummyServer.Utilities.pdb
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICIEAIDummyServer\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.Utilities\bin\Debug\ICICI.EAI.DummyServer.Utilities.dll.config
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICIEAIDummyServer\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.Utilities\bin\Debug\ICICI.EAI.DummyServer.Utilities.dll
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICIEAIDummyServer\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.Utilities\bin\Debug\ICICI.EAI.DummyServer.Utilities.pdb
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICIEAIDummyServer\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.Utilities\obj\Debug\ICICI.EAI.DummyServer.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICIEAIDummyServer\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.Utilities\obj\Debug\ICICI.EAI.DummyServer.Utilities.dll
+C:\Users\zikh\source\repos\ICICI.EAI.DummyServers\ICICIEAIDummyServer\ICICI.EAI.DummyServers\ICICI.EAI.DummyServer.Utilities\obj\Debug\ICICI.EAI.DummyServer.Utilities.pdb
